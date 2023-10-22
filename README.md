@@ -1,4 +1,4 @@
-# js-moderno-http-app
+# js-http-app
 
 Recuerden:
 
